@@ -9,6 +9,15 @@ public class Array {
     public void demo1(){
         String[] arr = new String[]{"1","2"};
         System.out.println(Arrays.toString(arr));
+        String[] arrNew = new String[]{"1","a","v"};
+        System.out.println(Arrays.toString(arrNew));
     }
+
+
+
+
+
+
+
 
 }
